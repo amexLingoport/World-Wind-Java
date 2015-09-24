@@ -21,6 +21,7 @@ public class BasicDragger implements SelectListener
     private final WorldWindow wwd;
     String badString = "This string should be externalized";
     String badString1 = “The string should be externalized too”;
+    String badString2 = “The string should be externalized three” ;
     private boolean dragging = false;
 
     private Point dragRefCursorPoint;
